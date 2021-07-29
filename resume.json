@@ -1,0 +1,59 @@
+{
+	"basics": {
+		"name": "Shubham Kumar",
+		"label": "Student",
+		"picture": "https://media-exp1.licdn.com/dms/image/C4D03AQEuAOIDb65xtA/profile-displayphoto-shrink_800_800/0/1624510722535?e=1632960000&v=beta&t=6IPmWGjclJCqHaZeGzd0T3_0-uUEfgErk7ONFruiHBY",
+		"email": "2020KUCP1062@iiitkota.ac.in",
+		"summary": "A Learner",
+		"location": {
+			 
+			"city": "Buxar",
+			"countryCode": "India",
+			"region": "Bihar"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "shubham_k_r",
+				"url": "https://twitter.com/shubham_k_r"
+			},
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/Shubham123498765"
+			},
+			{
+				"network": "linkedin",
+				"username": "Shubham Kumar",
+				"url": "https://www.linkedin.com/in/shubhamkumar-1/"
+			}
+			 
+		]
+	},
+	"work": [{
+		"company": "GPCSSI",
+		"position": "Intern",
+		"startDate": "2021-06-14//Take care about Date Format",
+		"endDate": "2021-07-12// ",
+		"summary": "Gugugram Police Cyber Security Summer Internship"
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-11-08 //Date",
+		"endDate": "----",
+		"gpa": "---Add your CGPA ---",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "7/10",
+		"keywords": [ "C/C++", "Linux"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Table Tennis"]
+	}],
+	"references": []
+}
