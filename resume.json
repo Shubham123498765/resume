@@ -5,8 +5,7 @@
 		"picture": "https://media-exp1.licdn.com/dms/image/C4D03AQEuAOIDb65xtA/profile-displayphoto-shrink_800_800/0/1624510722535?e=1632960000&v=beta&t=6IPmWGjclJCqHaZeGzd0T3_0-uUEfgErk7ONFruiHBY",
 		"email": "2020KUCP1062@iiitkota.ac.in",
 		"phone": "",
-		"website": "",
-		"summary": "A Learner",
+		"summary": "I am a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
 		"location": {
 			"address": "",
 			"postalCode": "",
@@ -21,7 +20,7 @@
 			},
 			{
 				"network": "Github",
-				"username": "handle",
+				"username": "Shubham123498765",
 				"url": "https://github.com/Shubham123498765"
 			},
 			{
@@ -44,20 +43,11 @@
 		"endDate": "2021-07-12// ",
 		"summary": "Gugugram Police Cyber Security Summer Internship"
 	}],
-	"volunteer": [{
-		"organization": "",
-		"position": "",
-		"website": "",
-		"startDate": "",
-		"endDate": "",
-		"summary": "",
-		"highlights": []
-	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
-		"startDate": "2020-12-08",
+		"startDate": "2020",
 		"endDate": "2024",
 		"gpa": "",
 		"courses": [
@@ -69,14 +59,9 @@
 		"awarder": "",
 		"date": ""
 	}],
-	"publications": [{
-		"title": "",
-		"details": "",
-		"link": ""
-	}],
 	"skills": [{
 		"level": "7/10",
-		"keywords": [ "C/C++", "Linux"]
+		"keywords": [ "C/C++", "Linux","HTML","CSS","JAVASCRIPT","PHP"]
 	}],
 	"interests": [{
 		"name": "Sports",
