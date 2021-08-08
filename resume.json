@@ -54,14 +54,9 @@
 			"Computer Science & Engineering"
 		]
 	}],
-	"awards": [{
-		"title": "",
-		"awarder": "",
-		"date": ""
-	}],
 	"skills": [{
 		"level": "7/10",
-		"keywords": [ "C/C++", "Linux","HTML","CSS","JAVASCRIPT","PHP"]
+		"keywords": [ "C/C++", "Linux"]
 	}],
 	"interests": [{
 		"name": "Sports",
